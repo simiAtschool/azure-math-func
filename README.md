@@ -4,3 +4,5 @@ The domain name is in my case https://javamathfunctions.azurewebsites.net <br>
 The functions are primeFactors, factorial, pi <br>
 Attribute for primeFactors and factorial is "number" and for pi "digits" <br>
 The value for all numbers is a whole positive number <br>
+<br>
+If the function needs longer than 20 seconds, it kills itself.
